@@ -1,3 +1,5 @@
+# Call of Duty Code Redeemer
+## Instructions
 1. Open https://profile.callofduty.com/promotions/redeemCode
 2. Make sure you are logged in.
 3. Paste the contents from `redeemer.js` into your browser's developer console (usually opens with F12 or Ctrl + Shift + I).
